@@ -16,15 +16,12 @@
   },
   "dependencies": {
     "@payloadcms/next": "beta",
-    "@payloadcms/plugin-cloud": "beta",
-    "@payloadcms/richtext-lexical": "beta",
     "cross-env": "^7.0.3",
     "graphql": "^16.8.1",
     "next": "15.0.0-canary.173",
     "payload": "beta",
     "react": "19.0.0-rc-3edc000d-20240926",
     "react-dom": "19.0.0-rc-3edc000d-20240926",
-    "sharp": "0.32.6",
     "@payloadcms/db-sqlite": "beta"
   },
   "devDependencies": {
